@@ -1,4 +1,4 @@
-# Sample 02 — Static Analysis of malware.exe.malz
+#Static Analysis of malware.exe.malz
 
 **Binary:** malware.exe.malz  
 **Jenis Analisis:** Static Analysis  
